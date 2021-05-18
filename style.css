@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(253, 251, 251);
+}
+
+#cabecalho {
+    background-color: seagreen;
+    position: static;
+    height: 100px;
+    top: 0;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 25px;
+}
+
+h3 {
+    text-align: center;
+    padding-top: 25px;
+}
